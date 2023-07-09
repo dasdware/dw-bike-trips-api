@@ -1,3 +1,5 @@
+This project is now deprecated and will no longer be maintained. It has been combined with the client repository and is now available as a monorepo under [https://github.com/dasdware/dw-bike-trips](https://github.com/dasdware/dw-bike-trips).
+
 # dasd.ware BikeTrips API
 
 This is the GraphQL Server that provides data about your bike trips. A bike trip consists of a timestamp and a distance. At the moment, it supports the following capabilities:
